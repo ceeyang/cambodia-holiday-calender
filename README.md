@@ -1,5 +1,15 @@
 # Cambodia Holidays ICS Generator
 
+## Subscribe to Holidays
+
+You can subscribe to the Cambodia public holidays directly using the following links:
+
+- [Chinese Version (中文订阅)](https://raw.githubusercontent.com/ceeyang/cambodia-holiday-calender/main/cambodia_holidays_zh.ics)
+- [English Version](https://raw.githubusercontent.com/ceeyang/cambodia-holiday-calender/main/cambodia_holidays_en.ics)
+- [Khmer Version](https://raw.githubusercontent.com/ceeyang/cambodia-holiday-calender/main/cambodia_holidays_km.ics)
+
+Click on the link corresponding to the language you prefer, and add it to your calendar application for easy access to Cambodia public holidays.
+
 ## Overview
 
 This project generates `.ics` calendar files for Cambodia's public holidays for the years 2024 and 2025 in three languages: Chinese, English, and Khmer. These `.ics` files can be used to subscribe to the holiday events in various calendar applications, such as iOS, Google Calendar, and Microsoft Outlook.
@@ -48,16 +58,6 @@ python generate_ics.py
    - `cambodia_holidays_km.ics`
 
 4. Use the `.ics` files to import or subscribe to the calendar in your preferred calendar application.
-
-## Subscribe to Holidays
-
-You can subscribe to the Cambodia public holidays directly using the following links:
-
-- [Chinese Version (中文订阅)](https://raw.githubusercontent.com/ceeyang/cambodia-holiday-calender/main/cambodia_holidays_zh.ics)
-- [English Version](https://raw.githubusercontent.com/ceeyang/cambodia-holiday-calender/main/cambodia_holidays_en.ics)
-- [Khmer Version](https://raw.githubusercontent.com/ceeyang/cambodia-holiday-calender/main/cambodia_holidays_km.ics)
-
-Click on the link corresponding to the language you prefer, and add it to your calendar application for easy access to Cambodia public holidays.
 
 ## JSON File Format
 
